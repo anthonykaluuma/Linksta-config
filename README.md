@@ -45,7 +45,7 @@ headers:
 statuscode: 200
 
 paths:
-  - /radio
-  - /radio/new
+  - /foo
+  - /foo/new
 
 ```
