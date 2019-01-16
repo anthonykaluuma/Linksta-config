@@ -35,7 +35,7 @@ In some situations, you may be deploying applications that you don't want to be 
 Example YAML Config:
 
 ```yaml
-base: 'http://www.bbc.co.uk'
+base: 'http://www.foo.co.uk'
 
 headers:
   -
