@@ -1,0 +1,14 @@
+base: 'http://www.foo.co.uk'
+
+headers:
+  -
+   key: 'X-content-override'
+   value: 'https://example.com'
+
+concurrency: 10
+
+paths:
+
+# Example paths
+  - /foo
+ 

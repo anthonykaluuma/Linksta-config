@@ -1,0 +1,7 @@
+base: 'http://www.foo.co.uk'
+
+concurrency: 10
+
+paths:
+
+# add smoke paths here!
